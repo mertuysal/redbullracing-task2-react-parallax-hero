@@ -11,6 +11,7 @@ This project is a UI implementation for [Red Bull Racing](https://www.redbullrac
 - **Components and Styling:** Each component is self-contained, with styles embedded directly in the component files. This approach keeps components small, manageable, and enhances both readability and maintainability.
 - **Testing Environment:** Unit tests have been implemented for key components, such as `ArticleCard` and `App` (see `ArticleCard.test.js` and `App.test.js`). These tests can be executed using `npm test` to ensure component stability and functionality.
 - **Font Selection:** The Figma design specified the `Bull` font, which was not publicly available. As an alternative, I used the [Steradian TRIAL Font Family](https://www.cdnfonts.com/steradian-trial.font) to closely match the intended design aesthetic.
+- **Favicon**: Red Bull favicon has been set for the app.
 
 
 ## Run Steps
